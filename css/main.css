@@ -19,37 +19,7 @@ main{
   padding: 40px 0;
 }
 .inner{
-  background:
-	repeating-radial-gradient(
-		circle at top left,
-		red,
-		red 4em,
-		transparent 4em,
-		transparent 15em
-	),
-	repeating-radial-gradient(
-		circle at top right,
-		lime,
-		lime 4em,
-		transparent 4em,
-		transparent 15em
-	),
-	repeating-radial-gradient(
-		circle at bottom right,
-		yellow,
-		yellow 4em,
-		transparent 4em,
-		transparent 15em
-	),
-	repeating-radial-gradient(
-		circle at bottom left,
-		blue,
-		blue 4em,
-		transparent 4em,
-		transparent 15em
-	), white;
-
-background-blend-mode: difference;
+  background-color: #FDEC51;
   /* height: 650px; */
   padding-bottom: 120px;
 }
